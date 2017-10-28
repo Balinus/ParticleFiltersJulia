@@ -12,3 +12,7 @@ particle filter for non-linear state space models, and also the robust filter pr
 > processing time series corrupted by outliers. *IEEE Transactions on
 > Signal Processing* **60**(9): 4611-4627.
 > DOI: [10.1109/TSP.2012.2200480](https://doi.org/10.1109/TSP.2012.2200480)
+
+Furthermore, Katie also implemented a 2-dimensional extension of
+the "classical" particle filter, which can be found
+[here](2D+Particle+Filter.ipynb).
