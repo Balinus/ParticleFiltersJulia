@@ -4,8 +4,8 @@
 
 This work was performed by Katie Li, as part of her Undergraduate Summer Research Assistantship,
 funded by [NSERC](https://www.nserc.ca). Katie worked
-between May and August 2017, and developed this
-Jupyter notebook with Julia code implementing both the "classical"
+between May and August 2017, and developed [this
+Jupyter notebook](ParticleFilters.ipynb) with Julia code implementing both the "classical"
 particle filter for non-linear state space models, and also the robust filter proposed by
 
 > Maiz, C.S., Molanes-López, E.M., Míguez, J. and Djuriü, P.M. (2012). A particle fltering scheme for
